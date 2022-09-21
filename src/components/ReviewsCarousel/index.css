@@ -1,0 +1,24 @@
+/* Write your code here */
+.main-bg {
+  background-image: url(https://assets.ccbp.in/frontend/react-js/reviews-bg.png);
+  background-size: cover;
+  height: 100vh;
+  text-align: center;
+  padding-top: 100px;
+}
+.list-container {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+.userList {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.arrow-style {
+  height: 30px;
+  width: 30px;
+}
